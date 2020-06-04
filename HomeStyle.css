@@ -546,6 +546,10 @@ body{
     .thebox-sub {
         font-size: 17px;
     }
+    
+    .btn a{
+        font-size: 15px;
+    }
 
     
 }
