@@ -390,13 +390,14 @@ body{
     padding-top: 10px;
 }
 #betichod{
-    
+     padding-bottom: 10px ;
 }
 #copyright {
 
     text-align: center;
+    padding-left: 90px;
     padding-bottom: 15px ;
-    font-size: 16px;
+    font-size: 13px;
     color:rgb(107, 121, 136);
 }
 
