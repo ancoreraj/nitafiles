@@ -46,8 +46,10 @@
     --main-headmenu-color: #9BB6C5; */
     
 
-    --main-bg-color: #3A4347 ;
-    --main-theme-color: #3A4347 ;
+    /*--main-bg-color: #3A4347 ;
+    --main-theme-color: #3A4347 ;*/
+    --main-bg-color: #3E464A  ;
+    --main-theme-color: #3E464A  ;
     --main-headfoot-color: #181B1E ;
     /* --main-headtext-color: #c3ff4e;  */
     --main-headtext-color: #a9e0ff; 
