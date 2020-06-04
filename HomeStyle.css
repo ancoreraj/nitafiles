@@ -540,5 +540,12 @@ body{
     .thebox{
         margin: 30px 10px;
     }
+    .thebox {
+        font-size: 30px;
+    }
+    .thebox-sub {
+        font-size: 15px;
+    }
+
     
 }
