@@ -11,4 +11,4 @@ burger.addEventListener('click', ()=>{
 
 })
 
-alert('Please do not share the pdf files downloaded from this site .Motivate your friends to visit the site and download the files.')
+
